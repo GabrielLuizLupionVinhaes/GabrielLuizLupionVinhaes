@@ -3,8 +3,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Estudante de Programação buscando evoluir cada dia mais!
+  
+  Pontos fortes: <br>
+    -Trabalho em equipe <br>
+    -Rapido aprendizado <br>
+    -Dedicado <br>
+    -Esforçado <br>
+    -Determinado <br>
+    -Gosto de cria soluções para problemas <br>
 </p>
 </div>
 
@@ -46,5 +53,3 @@
     />
   </a>
 </p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
