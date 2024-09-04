@@ -22,11 +22,6 @@
   <a href="https://www.linkedin.com/in/gabriel-luiz-lupion-vinhaes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </p>
 
-<br>
-<br>
-<br>
-<br>
-
 ---
 
 ### 📊 Status
@@ -53,3 +48,5 @@
     />
   </a>
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
